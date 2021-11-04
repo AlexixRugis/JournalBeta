@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">JournalBeta</string>
+    <string name="settings">Настройки</string>
+    <string name="marks">Оценки</string>
+    <string name="timetable">Расписание</string>
+    <string name="in_development">IN DEVELOPMENT</string>
+
+    <string name="settings_password_input_hint">Пароль</string>
+    <string name="settings_username_input_hint">Логин</string>
+    <string name="settings_login_button_title">Войти</string>
+    <string name="status_connecting">Подключение...</string>
+    <string name="status_invalid">Неверный логин или пароль</string>
+    <string name="status_error">Ошибка подключения! Попробуйте позже.</string>
+    <string name="status_ok">Подключение установлено</string>
+    <string name="header_main">Дневник</string>
+    <string name="header_login">Вход</string>
+    <string name="login_empty_field">Чтобы войти, нужно заполнить все поля!</string>
+</resources>
